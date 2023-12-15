@@ -1,0 +1,14 @@
+C:\Users\Erick\Documents\projects\Distr\bin\Debug\net8.0\Distr.exe
+C:\Users\Erick\Documents\projects\Distr\bin\Debug\net8.0\Distr.deps.json
+C:\Users\Erick\Documents\projects\Distr\bin\Debug\net8.0\Distr.runtimeconfig.json
+C:\Users\Erick\Documents\projects\Distr\bin\Debug\net8.0\Distr.dll
+C:\Users\Erick\Documents\projects\Distr\bin\Debug\net8.0\Distr.pdb
+C:\Users\Erick\Documents\projects\Distr\obj\Debug\net8.0\Distr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erick\Documents\projects\Distr\obj\Debug\net8.0\Distr.AssemblyInfoInputs.cache
+C:\Users\Erick\Documents\projects\Distr\obj\Debug\net8.0\Distr.AssemblyInfo.cs
+C:\Users\Erick\Documents\projects\Distr\obj\Debug\net8.0\Distr.csproj.CoreCompileInputs.cache
+C:\Users\Erick\Documents\projects\Distr\obj\Debug\net8.0\Distr.dll
+C:\Users\Erick\Documents\projects\Distr\obj\Debug\net8.0\refint\Distr.dll
+C:\Users\Erick\Documents\projects\Distr\obj\Debug\net8.0\Distr.pdb
+C:\Users\Erick\Documents\projects\Distr\obj\Debug\net8.0\Distr.genruntimeconfig.cache
+C:\Users\Erick\Documents\projects\Distr\obj\Debug\net8.0\ref\Distr.dll
